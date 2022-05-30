@@ -5,8 +5,8 @@
 # Social Media Marketing
 *Determine which platforms are suited to your brand
 
-![] (https://bigevk.github.io/Module1Challenge)
+![](https://bigevk.github.io/Module1Challenge)
 
-![](./images/Module1-Challenge-Content-Screenshot.png")
+![](/images/Module1-Challenge-Content-Screenshot.png")
 
-![](./assets/Madule1-Challenge-Hero-Screenshot.png")
+![](/assets/Madule1-Challenge-Hero-Screenshot.png")

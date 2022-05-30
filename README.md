@@ -7,6 +7,6 @@
 
 ![] (https://bigevk.github.io/Module1Challenge)
 
-![] (images/Module1-Challenge-Content-Screenshot.png")
+![] (assets/images/Module1-Challenge-Content-Screenshot.png")
 
-![] (assets/Madule1-Challenge-Hero-Screenshot.png")
+![] (assets/images/Module1-Challenge-Hero-Screenshot.png")

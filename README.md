@@ -9,6 +9,9 @@
 
 <a href="https://bigevk.github.io/Module1Challenge">Horiseon Website</a>
 
+![](assets/images/Module1-Challenge-Hero-Screenshot.png)
+
+
 ![](assets/images/Module1-Challenge-Content-Screenshot.png)
 
-![](assets/images/Module1-Challenge-Hero-Screenshot.png)
+

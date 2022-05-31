@@ -7,7 +7,7 @@
 # Social Media Marketing
 *Determine which platforms are suited to your brand
 
-https://bigevk.github.io/Module1Challenge
+<a href="https://bigevk.github.io/Module1Challenge">Horiseon Website</a>
 
 ![](assets/images/Module1-Challenge-Content-Screenshot.png)
 
